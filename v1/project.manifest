@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "2",
+	"version" : "3",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3848,7 +3848,7 @@
 			"md5": "e9541d2ea952590838cef02849b0a2b5"
 		},
 		"res/GUI/Lobby.json": {
-			"md5": "e9490dcddb1ef6fd216d60807a7e6a4c"
+			"md5": "50d68b0caaad48e38108bf5d337397ac"
 		},
 		"res/GUI/MoreGames.json": {
 			"md5": "1bf4873d189ed45f90d503dc234df274"
@@ -4028,7 +4028,7 @@
 			"md5": "79be1b94f30ee50e11c3a55814849a93"
 		},
 		"res/launcher.png": {
-			"md5": "4f380669fc0eae0a4073a83651d7e590"
+			"md5": "921dddebdf13ae28d81939df6e2758f2"
 		},
 		"res/loading.js": {
 			"md5": "367c30b3840257a5fbe4b35e9d238f0d"
@@ -4391,7 +4391,7 @@
 			"md5": "f2b778e544df04a5b650724db3387a86"
 		},
 		"src/Base/plugins/Admob.js": {
-			"md5": "74a8714ed4c2099dbac3df5a1b67ad88"
+			"md5": "39b368f29be0d8f8c90deece9f45ac31"
 		},
 		"src/Base/plugins/Crashlytics.js": {
 			"md5": "ade566892600eadbdebd33f5e7e9682e"
@@ -4463,7 +4463,7 @@
 			"md5": "ca48690d3d538225960a196065b02b20"
 		},
 		"src/GameList/LobbyScene.js": {
-			"md5": "05201c2ce1a0b3afec026dad7f11c084"
+			"md5": "f4eccc5e400a565be40411cda5716896"
 		},
 		"src/GameList/PanelListCommon.js": {
 			"md5": "b7695845c377e13689b222b23545466e"
@@ -4502,7 +4502,7 @@
 			"md5": "e3b3feee1e1a888eddced425d924b66f"
 		},
 		"src/Modules/APIMgr.js": {
-			"md5": "7c2ee5e3c529fb2def9232c310468c5b"
+			"md5": "3fb0c83952b34131ba79ae0d0e598f2c"
 		},
 		"src/Modules/Config.js": {
 			"md5": "b6fe87603808bbb00f14d18d4d5887f4"
