@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "3",
+	"version" : "6",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -3848,7 +3848,7 @@
 			"md5": "e9541d2ea952590838cef02849b0a2b5"
 		},
 		"res/GUI/Lobby.json": {
-			"md5": "50d68b0caaad48e38108bf5d337397ac"
+			"md5": "aa7767e4796738f329f05c0397fa0521"
 		},
 		"res/GUI/MoreGames.json": {
 			"md5": "1bf4873d189ed45f90d503dc234df274"
@@ -4463,7 +4463,7 @@
 			"md5": "ca48690d3d538225960a196065b02b20"
 		},
 		"src/GameList/LobbyScene.js": {
-			"md5": "f4eccc5e400a565be40411cda5716896"
+			"md5": "988ad9c6f388e6fb78a614982e1b7d83"
 		},
 		"src/GameList/PanelListCommon.js": {
 			"md5": "b7695845c377e13689b222b23545466e"
