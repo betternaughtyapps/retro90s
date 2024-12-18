@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "9",
+	"version" : "10",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -4526,7 +4526,7 @@
 			"md5": "2b57ce822e0fc9f5bf553b165638d2a2"
 		},
 		"src/Modules/Rate.js": {
-			"md5": "77b01e0178f21b90eed7d6e70a87aa72"
+			"md5": "39cf7e66b9cd99aa693a2697a874af8f"
 		},
 		"src/Modules/Tracking.js": {
 			"md5": "57f10ec1379f90709472257ef686b32a"
