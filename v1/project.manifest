@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "6",
+	"version" : "8",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -4460,31 +4460,31 @@
 			"md5": "bacbd34acf26c935c1ac52b4ed7f6d6d"
 		},
 		"src/GameList/GameList.js": {
-			"md5": "ca48690d3d538225960a196065b02b20"
+			"md5": "b64ae411f6a99c10b755e309570f220e"
 		},
 		"src/GameList/LobbyScene.js": {
-			"md5": "988ad9c6f388e6fb78a614982e1b7d83"
+			"md5": "b460ef3df3c23539e615db9a5d9ad156"
 		},
 		"src/GameList/PanelListCommon.js": {
 			"md5": "b7695845c377e13689b222b23545466e"
 		},
 		"src/GameList/PanelListGBA.js": {
-			"md5": "2ad6643d3cf3299e33270899363110fa"
+			"md5": "a8667386526af4198eaa32175cd99fa2"
 		},
 		"src/GameList/PanelListMAME.js": {
-			"md5": "667d3097708c0fcdd9e791cdecfc19f8"
+			"md5": "cd19a8866f6a733de665359a3a98da9f"
 		},
 		"src/GameList/PanelListN64.js": {
-			"md5": "c519bc8947e2b0b6286a0966654d5768"
+			"md5": "3da24e982fff2e1108d34747e6640cc2"
 		},
 		"src/GameList/PanelListNES.js": {
-			"md5": "23120dca610594c3d564af53f0502ea0"
+			"md5": "c18429832c17e396ba7857b7f5a83edc"
 		},
 		"src/GameList/PanelListROM.js": {
 			"md5": "dfc92b38f0830438bfe4e56a9d257de7"
 		},
 		"src/GameList/PanelListSNES.js": {
-			"md5": "76d724b6eac285ef3afe043bb06519c7"
+			"md5": "cc8a674493557a7a46853a949442810b"
 		},
 		"src/GUI/BaseLayer.js": {
 			"md5": "b9c53a4d20d8adb029192d91eb4376c6"
@@ -4526,7 +4526,7 @@
 			"md5": "2b57ce822e0fc9f5bf553b165638d2a2"
 		},
 		"src/Modules/Rate.js": {
-			"md5": "ea9ccd392eb2c010da9b66aad6d0fbc4"
+			"md5": "77b01e0178f21b90eed7d6e70a87aa72"
 		},
 		"src/Modules/Tracking.js": {
 			"md5": "57f10ec1379f90709472257ef686b32a"
@@ -4565,7 +4565,7 @@
 			"md5": "cc2f3c1f3f24ad376458f8785c0cbed7"
 		},
 		"src/Retro.js": {
-			"md5": "6a7ae45249c2efaba0ae5e76389ed3c8"
+			"md5": "4633b038c0d96937259e15d32bd1ef06"
 		}},
 	"group" : {},
     "searchPaths" : []

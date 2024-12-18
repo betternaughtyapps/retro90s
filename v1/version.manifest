@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "6",
+	"version" : "8",
 	"engineVersion" : "1.0.0",
 	"assets" : {},
 	"group" : {},
