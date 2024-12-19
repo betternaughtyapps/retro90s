@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/betternaughtyapps/retro90s/main/v1/",
-	"version" : "10",
+	"version" : "12",
 	"engineVersion" : "1.0.0",
 	"assets" : {
 		"config.json": {
@@ -4517,7 +4517,7 @@
 			"md5": "c006787e228764a8c1716796f224ddcb"
 		},
 		"src/Modules/IPMgr.js": {
-			"md5": "25911202e588f050e0cb0accea6bda2d"
+			"md5": "baa9fea85c2a2c3d859a9f3c0aca0a49"
 		},
 		"src/Modules/JSLog.js": {
 			"md5": "de447d67c8a3971863e1e5f6a9004024"
@@ -4565,7 +4565,7 @@
 			"md5": "cc2f3c1f3f24ad376458f8785c0cbed7"
 		},
 		"src/Retro.js": {
-			"md5": "4633b038c0d96937259e15d32bd1ef06"
+			"md5": "cfe68aa23ccfbca87c6758e82419a297"
 		}},
 	"group" : {},
     "searchPaths" : []
